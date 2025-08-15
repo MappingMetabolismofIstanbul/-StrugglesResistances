@@ -19,7 +19,7 @@ var config = {
     title: 'Mücadeleler & Direnişler /  Struggles & Resistances',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     chapters: [
         {
             id: '1',
@@ -59,13 +59,13 @@ var config = {
             image: 'https://i.ibb.co/G4J8Py8M/1.png',
             description: '',
             location: {
-                center: [28.98751547684319,41.03799763339981],
-                zoom: 17,
-                pitch: 35,
+                center: [28.987755242990943,41.040018630873504],
+                zoom: 16,
+                pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [
                 // {
