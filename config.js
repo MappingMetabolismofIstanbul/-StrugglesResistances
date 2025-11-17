@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Mücadeleler & Direnişler /  Struggles & Resistances',
+    title: 'Mücadeleler & Direnişler & Yeşil Alanlar  /  Struggles & Resistances & Green Spaces',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
